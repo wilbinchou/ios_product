@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0107EC661C4A14E8004B1F73 /* people.m in Sources */ = {isa = PBXBuildFile; fileRef = 0107EC651C4A14E8004B1F73 /* people.m */; settings = {ASSET_TAGS = (); }; };
 		01471BD41C48D8FE000E8387 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01471BD31C48D8FE000E8387 /* main.m */; };
 		01471BD71C48D8FE000E8387 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 01471BD61C48D8FE000E8387 /* AppDelegate.m */; };
 		01471BDA1C48D8FE000E8387 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 01471BD91C48D8FE000E8387 /* ViewController.m */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0107EC641C4A14E8004B1F73 /* people.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = people.h; sourceTree = "<group>"; };
+		0107EC651C4A14E8004B1F73 /* people.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = people.m; sourceTree = "<group>"; };
 		01471BCF1C48D8FE000E8387 /* haha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = haha.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01471BD31C48D8FE000E8387 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		01471BD51C48D8FE000E8387 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				01471BE01C48D8FE000E8387 /* LaunchScreen.storyboard */,
 				01471BE31C48D8FE000E8387 /* Info.plist */,
 				01471BD21C48D8FE000E8387 /* Supporting Files */,
+				0107EC641C4A14E8004B1F73 /* people.h */,
+				0107EC651C4A14E8004B1F73 /* people.m */,
 			);
 			path = haha;
 			sourceTree = "<group>";
@@ -270,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0107EC661C4A14E8004B1F73 /* people.m in Sources */,
 				01471BDA1C48D8FE000E8387 /* ViewController.m in Sources */,
 				01471BD71C48D8FE000E8387 /* AppDelegate.m in Sources */,
 				01471BD41C48D8FE000E8387 /* main.m in Sources */,
@@ -498,6 +504,7 @@
 				01471BFE1C48D8FF000E8387 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01471BFF1C48D8FF000E8387 /* Build configuration list for PBXNativeTarget "hahaTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +513,7 @@
 				01471C011C48D8FF000E8387 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01471C021C48D8FF000E8387 /* Build configuration list for PBXNativeTarget "hahaUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +522,7 @@
 				01471C041C48D8FF000E8387 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
