@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0107EC661C4A14E8004B1F73 /* people.m in Sources */ = {isa = PBXBuildFile; fileRef = 0107EC651C4A14E8004B1F73 /* people.m */; settings = {ASSET_TAGS = (); }; };
 		0107EC691C4A155C004B1F73 /* book.m in Sources */ = {isa = PBXBuildFile; fileRef = 0107EC681C4A155C004B1F73 /* book.m */; settings = {ASSET_TAGS = (); }; };
 		0107EC6C1C4A1A64004B1F73 /* address.m in Sources */ = {isa = PBXBuildFile; fileRef = 0107EC6B1C4A1A64004B1F73 /* address.m */; settings = {ASSET_TAGS = (); }; };
 		01471BD41C48D8FE000E8387 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 01471BD31C48D8FE000E8387 /* main.m */; };
@@ -38,8 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0107EC641C4A14E8004B1F73 /* people.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = people.h; sourceTree = "<group>"; };
-		0107EC651C4A14E8004B1F73 /* people.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = people.m; sourceTree = "<group>"; };
 		0107EC671C4A155C004B1F73 /* book.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = book.h; sourceTree = "<group>"; };
 		0107EC681C4A155C004B1F73 /* book.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = book.m; sourceTree = "<group>"; };
 		0107EC6A1C4A1A64004B1F73 /* address.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = address.h; sourceTree = "<group>"; };
@@ -119,8 +116,6 @@
 				01471BE01C48D8FE000E8387 /* LaunchScreen.storyboard */,
 				01471BE31C48D8FE000E8387 /* Info.plist */,
 				01471BD21C48D8FE000E8387 /* Supporting Files */,
-				0107EC641C4A14E8004B1F73 /* people.h */,
-				0107EC651C4A14E8004B1F73 /* people.m */,
 				0107EC671C4A155C004B1F73 /* book.h */,
 				0107EC681C4A155C004B1F73 /* book.m */,
 				0107EC6A1C4A1A64004B1F73 /* address.h */,
@@ -286,7 +281,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0107EC691C4A155C004B1F73 /* book.m in Sources */,
-				0107EC661C4A14E8004B1F73 /* people.m in Sources */,
 				0107EC6C1C4A1A64004B1F73 /* address.m in Sources */,
 				01471BDA1C48D8FE000E8387 /* ViewController.m in Sources */,
 				01471BD71C48D8FE000E8387 /* AppDelegate.m in Sources */,
