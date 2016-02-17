@@ -23,6 +23,7 @@
     NSLog(@"log3333");
     NSLog(@"log4444");
     NSLog(@"log5555");
+    NSLog(@"log6666");
 
     // Do any additional setup after loading the view, typically from a nib.
 }
