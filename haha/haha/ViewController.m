@@ -20,7 +20,7 @@
     NSLog(@"zhouweibin");
     NSLog(@"log1111");
     NSLog(@"log2222");
-
+    NSLog(@"log3333");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
