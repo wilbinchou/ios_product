@@ -19,6 +19,8 @@
     NSLog(@"nishishui");
     NSLog(@"zhouweibin");
     NSLog(@"log1111");
+    NSLog(@"log2222");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
